@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Biodata>
+    <Nama>
+        <NamaDepan>Sofwan</NamaDepan>
+        <NamaBelakang>Hidayat</NamaBelakang>
+    </Nama>
+
+    <NIM>118140052</NIM>
+    
+    <JenisKelamin>Laki-laki</JenisKelamin>
+
+    <Usia>20</Usia>
+
+    <Saudara>Dua</Saudara>
+
+    <Hobby>Menggambar</Hobby>
+
+    <Alamat>
+        <Desa>Belwis</Desa>
+        <Kecamatan>Jati Agung</Kecamatan>
+        <Kabupaten>Lampung Selatan</Kabupaten>
+    </Alamat>
+
+    <SocialMedia>
+        <Facebook>sofwansi</Facebook>
+        <Instagram>sofwansi</Instagram>
+    </SocialMedia>
+</Biodata>

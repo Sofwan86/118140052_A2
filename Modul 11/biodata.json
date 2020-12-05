@@ -1,0 +1,21 @@
+{
+    "Biodata":{
+        "Nama": "Sofwan Hidayat",
+        "NIM": "118140052",
+        "Saudara":"Dua",
+        "JenisKelamin": "Laki-laki",
+        "Usia":"20",
+        "Saudara":"Dua",
+        "Hobby":"Menggambar",
+        "Alamat":{
+            "Desa":"Belwis",
+            "Kecamatan":"Jati Agung",
+            "Kabupaten":"Lampung Selatan"
+        },
+
+        "SocialMedia":{
+            "Facebook":"sofwansi",
+            "Instagram":"sofwansi"
+        }
+    }
+}
